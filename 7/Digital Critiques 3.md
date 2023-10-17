@@ -16,19 +16,19 @@
 * Connectivity across resources (under the principles of Linked Open Data)
   * Grade: C
   * Reasoning: The Thesaurus is available with an open licence, has links to other people's information relating to the project as a whole (not the content of the project). However, the content is an image scan. While the scan is of good quality and allows for accurate searching and copying within the PDF download, it is not in machine readable structured data which makes the site fail all subsequent Linked Open Data principles.
+
 ## Digital Maps of the Ancient World
 * Permanence and sustainability
-  * Grade: 
-  * Reasoning: 
-
+  * Grade: C
+  * Reasoning: There is no way to download the maps, you can only share it on Facebook, Twitter, via email, or embed on your own site. The site is also managed by a single Head of Classics at a Prep School on WordPress.com which means if the site's life is dependent on the author's willingness to maintain it and the existence of WordPress.com. There have been very recent updates to the maps.
 * Openness or restriction of their data
-  * Grade: 
-  * Reasoning: 
+  * Grade: C
+  * Reasoning: There is no way to download the maps, only share it as listed above. The author welcomes input and/or contributions, but does not list how to do that. 
 
 * Functionality of their interface and interaction with their data
-  * Grade: 
-  * Reasoning: 
+  * Grade: B
+  * Reasoning: The entire site is very intuitive (although looks a bit dated). All of the maps are interactive, have the name of the site or battle that occured on the site, a description of the site/battle/event, and a picture. There is no way to search for the specific location, the user does have to manually navigate to the location and if the user is unsure of the location it would be hard to find that information.
 
 * Connectivity across resources (under the principles of Linked Open Data)
-  * Grade: 
-  * Reasoning:
+  * Grade: B
+  * Reasoning: The site is available on the web with an open license, available as machine readable structured data, in a non-proprietary format, but has no links to other people's data to provide context. 
