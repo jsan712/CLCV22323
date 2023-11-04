@@ -1,0 +1,167 @@
+{
+    "@id": "https://w3id.org/places_with_pictures",
+    "type": "FeatureCollection",
+    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
+    "features": [
+        {
+            "@id": "https://w3id.org/places_with_pictures/881d2176-221b-47b4-b504-4f22eea54ec5",
+            "type": "Feature",
+            "properties": {
+                "title": "Thebai/Thebae"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.317355,
+                    38.319236
+                ]
+            },
+            "links": [
+                {
+                    "type": "https://pleiades.stoa.org/places/541138"
+                }
+            ],
+            "depictions": [
+                {
+                    "@id": "https://cdn.britannica.com/54/64354-050-223318A1/Thebes-Greece.jpg",
+                    "title": "Thebes on a map",
+                    "thumbnail": "https://cdn.britannica.com/54/64354-050-223318A1/Thebes-Greece.jpg"
+                }
+            ]
+        },
+        {
+            "@id": "https://w3id.org/places_with_pictures/5f2de350-ec13-4d45-bc87-bf61b8a5a0d2",
+            "type": "Feature",
+            "properties": {
+                "title": "Sparta"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.42366,
+                    37.082132
+                ]
+            },
+            "links": [
+                {
+                    "type": "https://pleiades.stoa.org/places/570685"
+                }
+            ],
+            "depictions": [
+                {
+                    "@id": "https://upload.wikimedia.org/wikipedia/commons/d/db/Spartan_Territory_Before_371_BC.png",
+                    "title": "Sparta on a map",
+                    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/db/Spartan_Territory_Before_371_BC.png"
+                }
+            ]
+        },
+        {
+            "@id": "https://w3id.org/places_with_pictures/b449819f-5615-4c68-8287-37ee6e12c295",
+            "type": "Feature",
+            "properties": {
+                "title": "Lakedaimon"
+            },
+            "geometry": null,
+            "links": [
+                {
+                    "type": "https://pleiades.stoa.org/places/711244"
+                }
+            ],
+            "depictions": [
+                {
+                    "@id": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Lakedaimonos_province.png",
+                    "title": "Lakedaimon on a map",
+                    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Lakedaimonos_province.png"
+                }
+            ]
+        },
+        {
+            "@id": "https://w3id.org/places_with_pictures/ed28b9d8-5bf5-4b54-97e8-79dbfcafb050",
+            "type": "Feature",
+            "properties": {
+                "title": "Alexandria"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.909773,
+                    31.201435
+                ]
+            },
+            "links": [
+                {
+                    "type": "https://pleiades.stoa.org/places/727070"
+                }
+            ],
+            "depictions": [
+                {
+                    "@id": "https://cdn.britannica.com/48/64848-050-6F3C0600/Alexandria-Egypt.jpg",
+                    "title": "Alexandria on a map",
+                    "thumbnail": "https://cdn.britannica.com/48/64848-050-6F3C0600/Alexandria-Egypt.jpg"
+                }
+            ]
+        },
+        {
+            "@id": "https://w3id.org/places_with_pictures/f4d4a0ea-0a81-446b-b6c3-90552dd02333",
+            "type": "Feature",
+            "properties": {
+                "title": "Athenae"
+            },
+            "geometry": null,
+            "links": [
+                {
+                    "type": "https://pleiades.stoa.org/places/579885"
+                }
+            ],
+            "depictions": [
+                {
+                    "@id": "https://santorinidave.com/wp-content/uploads/2021/12/athens-location-map.png",
+                    "title": "Athens on a map",
+                    "thumbnail": "https://santorinidave.com/wp-content/uploads/2021/12/athens-location-map.png"
+                }
+            ]
+        },
+        {
+            "@id": "https://w3id.org/places_with_pictures/9e8643ef-742f-42ad-94f7-5a144a92e5d8",
+            "type": "Feature",
+            "properties": {
+                "title": "Lyktos"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3682,
+                    35.2081
+                ]
+            },
+            "links": [
+                {
+                    "type": "https://pleiades.stoa.org/places/589918"
+                }
+            ],
+            "depictions": [
+                {
+                    "@id": "https://isaw.nyu.edu/publications/newsletters/030/images/newslettermapFigure1.jpg",
+                    "title": "Lyktos on a map",
+                    "thumbnail": "https://isaw.nyu.edu/publications/newsletters/030/images/newslettermapFigure1.jpg"
+                }
+            ]
+        }
+    ],
+    "indexing": {
+        "@type": "Dataset",
+        "name": "places with pictures",
+        "description": "",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "identifier": "https://w3id.org/places_with_pictures",
+        "temporalCoverage": "1066/2022",
+        "spatialCoverage": {
+            "@type": "GeoShape",
+            "box": "0.580101 0.00149 60.355 9.78667",
+            "geo": {
+                "@type": "GeoShape",
+                "box": "31.201435 22.42366 38.319236 29.909773"
+            }
+        }
+    }
+}
